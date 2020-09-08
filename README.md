@@ -13,11 +13,13 @@ The call format of Intranet is sip:removeip :port(Skip login to see the local ru
 内网运行呼叫格式为sip:removeip:port(跳过登陆能看到运行端口)
    
 # desc  
-Intranet supports 1080p,Especially with screen capture recorder or something else  
-如果在内网运行装了screen capture recorder或者其他能支持1080p  
+Intranet supports 1080p,Especially with screen capture recorder or something else;screen-capture-record2dxgi20200811.zip Support 1080p 60fps;you can read 使用说明.txt ro customized    
+ 
+如果在内网运行装了screen capture recorder或者其他能支持1080p;提供一个测试的screen capture recorder(screen-capture-record2dxgi20200811.zip)支持1080p 60fps;如果有定制需求可以安装说明操作
+  
   
 # else    
-plase  Issues or join qq group(261074724)  
+plase Issues or join qq group(261074724)  
 请Issues或者交流群(261074724)  
 
 

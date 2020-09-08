@@ -9,16 +9,16 @@ This is a sip client based on QT QML and linphone sdk 4.4 ,Mainly experience c +
   
 # run   
 git download and run linphone/linphone.exe
-The call format of Intranet is sip:removeip :port(Skip login to see the local run port) 
+The call format of Intranet is sip:removeip :port(Skip login to see the local run port)   
 内网运行呼叫格式为sip:removeip:port(跳过登陆能看到运行端口)
    
-#desc  
-Intranet supports 1080p,Especially with screen capture recorder or something else
-如果在内网运行装了screen capture recorder或者其他能支持1080p
+# desc  
+Intranet supports 1080p,Especially with screen capture recorder or something else  
+如果在内网运行装了screen capture recorder或者其他能支持1080p  
   
-#else    
-plase  Issues or join qq group(261074724)
-请Issues或者交流群(261074724)
+# else    
+plase  Issues or join qq group(261074724)  
+请Issues或者交流群(261074724)  
 
 
 
